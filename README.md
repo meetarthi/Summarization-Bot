@@ -13,6 +13,6 @@ Used Open API model for generating the summary, output given were complete and a
 ------------------------
 1. Used Open API key to access the foundational model .
 2. The pdf file of the startup application was loaded, and the text was extracted from the file.
-3. The text extracted were used to generate summary about the company, Financials, Team and products, by using precise prompt templates .
+3. The text extracted were used to generate summary about the company, Financials, Team and products, by using precise prompt templates.
 4. The generated output will be stored in a text file.
 
